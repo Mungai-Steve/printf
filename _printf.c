@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdarg.h>
+#include "main.h"
 /**
  * _printf - writes a function that outputs as formated
  * @format: argument which specifies format string
